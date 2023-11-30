@@ -1,0 +1,5 @@
+Gmail Account -> Security - > 2 - Step Verification - > App passwords (Bottom of Page) - Create App Password account (Provide any name) - Save - Password will generated.
+
+Take password and save it on Password field under "Use SMTP Authentication" section.
+
+This is latest one and worked for me.
